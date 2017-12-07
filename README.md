@@ -8,6 +8,8 @@ Desenvolvimento de layout customizado em Wordpress com base no layout fornecido
 - Responsividade
 - Integração com Wordpress
 - Utilizar HTML5, CSS3, JS (ES6)
+- Fonte Título: PlayfairDisplay
+- Fonte Textos: Lora
 
 ## Instruções
 
