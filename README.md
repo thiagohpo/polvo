@@ -1,30 +1,27 @@
 # Polvo
 
-Desafio Programador PHP - Grupo Polvo
+Desafio Desenvolvedor Wordpress - Grupo Polvo
 
-Desenvolvimento de um CRUD de cadastro de produtos em PHP e MySQL
+Desenvolvimento de layout customizado em Wordpress com base no layout fornecido
 
-## Deverá conter
-Produto: ID, SKU, Nome, Descrição e Preço
-
-Pedido: ID, Total, Data, Produtos
+## Requisitos
+- Responsividade
+- Integração com Wordpress
+- Utilizar HTML5, CSS3, JS (ES6)
 
 ## Instruções
 
 1. Faça um fork do projeto para sua conta pessoal
-2. Crie uma branch com o padrão: `php-dev-challenge`
-3. Coloque seu teste dentro do diretório **[/php-dev-challenge/seu-nome](https://github.com/aline-matos/polvo/tree/php-dev-challenge)** 
+2. Crie uma branch com o padrão: `wp-dev-challenge`
+3. Coloque seu teste dentro do diretório **[/wp-dev-challenge/seu-nome](https://github.com/aline-matos/polvo/tree/wp-dev-challenge)** 
 4. Utilize o seu nome para a pasta principal do projeto
-5. Submeta seu código criando um [Pull Request](https://github.com/aline-matos/polvo/compare/master...php-dev-challenge) para `php-dev-challenge/`
+5. Submeta seu código criando um [Pull Request](https://github.com/aline-matos/polvo/compare/master...wp-dev-challenge) para `wp-dev-challenge/`
 
-## Você pode
+## Você pode e iremos amar se... <3
 
-- Utilizar qualquer Framework. Caso opte por não utilizar, desenvolver nos padrões de projeto MVC
-- Utilizar composer
-- Utilizar qualquer template engine de sua preferência
+- Utilizar algum pré-processador de sua preferência (Less, SASS, STYLES)
 - Utilizar quaisquer bibliotecas ou frameworks JS como Angular, React, jQuery, VueJS ou outras
 - Utilizar bibliotecas CSS como Compass, Bourbon, Animatecss ou outras
-- Utilizar quaisquer frameworks CSS como Bootstrap, Foundation ou outras
 
 ## Dúvidas?
 
