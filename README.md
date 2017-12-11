@@ -1,12 +1,11 @@
 # Polvo
 
-Desafio Desenvolvedor Wordpress - Grupo Polvo
+Desafio Estágio Front-end - Grupo Polvo
 
-Desenvolvimento de layout customizado em Wordpress com base no layout fornecido
+Desenvolvimento de layout com base no layout fornecido
 
 ## Requisitos
 - Responsividade
-- Integração com Wordpress
 - Utilizar HTML5, CSS3, JS (ES6)
 - Fonte Título: PlayfairDisplay
 - Fonte Textos: Lora
@@ -14,10 +13,10 @@ Desenvolvimento de layout customizado em Wordpress com base no layout fornecido
 ## Instruções
 
 1. Faça um fork do projeto para sua conta pessoal
-2. Crie uma branch com o padrão: `wp-dev-challenge`
-3. Coloque seu teste dentro do diretório **[/wp-dev-challenge/seu-nome](https://github.com/aline-matos/polvo/tree/wp-dev-challenge)** 
+2. Crie uma branch com o padrão: `trainee-front-challenge`
+3. Coloque seu teste dentro do diretório **[/trainee-front-challenge/seu-nome](https://github.com/aline-matos/polvo/tree/trainee-front-challenge)** 
 4. Utilize o seu nome para a pasta principal do projeto
-5. Submeta seu código criando um [Pull Request](https://github.com/aline-matos/polvo/compare/master...wp-dev-challenge) para `wp-dev-challenge/`
+5. Submeta seu código criando um [Pull Request](https://github.com/aline-matos/polvo/compare/master...trainee-front-challenge) para `trainee-front-challenge/`
 
 ## Você pode e iremos amar se... <3
 
