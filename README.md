@@ -1,18 +1,32 @@
 # Polvo
 
-Área de desafios com o objetivo de encontrar novos talentos que gostariam de fazer parte do nosso time.
+Desafio Desenvolvedor Front-End - Grupo Polvo
 
-## Desafio Desenvolvedor Wordpress - Grupo Polvo
-https://github.com/aline-matos/polvo/tree/wp-dev-challenge
+Desenvolvimento de página web com base no layout fornecido
 
-## Desafio Desenvolvedor Back-End - Grupo Polvo
-https://github.com/aline-matos/polvo/tree/php-dev-challenge
+##Layout
+https://zpl.io/bAAZlpo
+- Para acessar o Zeplin, utilize o link acima, efetue seu cadastro caso ainda não tenha ou envie um e-mail para labs@polvo.com.br solicitando o acesso
 
-## Desafio Desenvolvedor Front-End - Grupo Polvo
-https://github.com/aline-matos/polvo/tree/front-end-challenge
+## Requisitos
+- Responsividade
+- Utilizar HTML5, CSS3, JS (ES6)
+- Fonte Título: NotoSerif
+- Fonte Textos: SourceSansPro
 
-## Desafio Estágio Front-End - Grupo Polvo
-https://github.com/aline-matos/polvo/tree/trainee-front-challenge
+## Instruções
+
+1. Faça um fork do projeto para sua conta pessoal
+2. Crie uma branch com o padrão: `front-end-challenge`
+3. Coloque seu teste dentro do diretório **[/front-end-challenge/seu-nome](https://github.com/aline-matos/polvo/tree/front-end-challenge)** 
+4. Utilize o seu nome para a pasta principal do projeto
+5. Submeta seu código criando um [Pull Request](https://github.com/aline-matos/polvo/compare/master...front-end-challenge) para `front-end-challenge/`
+
+## Você pode e iremos amar se... <3
+
+- Utilizar algum pré-processador de sua preferência (Less, SASS, STYLES)
+- Utilizar quaisquer bibliotecas ou frameworks JS como Angular, React, jQuery, VueJS ou outras
+- Utilizar bibliotecas CSS como Compass, Bourbon, Animatecss ou outras
 
 ## Dúvidas?
 
