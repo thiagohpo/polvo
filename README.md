@@ -4,8 +4,10 @@ Desafio Desenvolvedor Front-End - Grupo Polvo
 
 Desenvolvimento de página web com base no layout fornecido
 
-##Layout
+## Layout
+
 https://zpl.io/bAAZlpo
+
 - Para acessar o Zeplin, utilize o link acima, efetue seu cadastro caso ainda não tenha ou envie um e-mail para labs@polvo.com.br solicitando o acesso
 
 ## Requisitos
