@@ -5,8 +5,11 @@
 ## Desafio Desenvolvedor Wordpress - Grupo Polvo
 https://github.com/aline-matos/polvo/tree/wp-dev-challenge
 
-## Desafio Programador PHP - Grupo Polvo
+## Desafio Desenvolvedor Back-End - Grupo Polvo
 https://github.com/aline-matos/polvo/tree/php-dev-challenge
+
+## Desafio Desenvolvedor Front-End - Grupo Polvo
+https://github.com/aline-matos/polvo/tree/front-end-challenge
 
 ## Desafio Estágio Front-End - Grupo Polvo
 https://github.com/aline-matos/polvo/tree/trainee-front-challenge
