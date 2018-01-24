@@ -1,0 +1,166 @@
+@cor1       :#4D6087;
+@cor2       :#F89C32;
+@cor3       :#5B5B5E;
+@corTitle   :#333333;
+@corText    :#333333;
+@corBg      :#fff;
+
+@branco     :#fff;
+@preto      :#000;
+@cinza1     :#dfdfdf;
+@cinza2     :#333333;
+@cinza3     :#666666;
+
+@screen-xs-max : 767px;     
+@screen-sm-min : 768px;     @screen-sm-max : 991px;
+@screen-md-min : 992px;     @screen-md-max : 1199px;
+@screen-lg-min : 1200px;
+
+/* mobile menu */
+
+.mobile-nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 100;
+	width: 220px;
+	height: 100%;
+	padding-top: 10px;
+	background: rgba(56,68,91,.9);
+	box-shadow: inset 0px 0px 20px rgba(0,0,0,.8)
+}
+
+.mobile-nav {
+	-webkit-transform: translateX(-220px);
+	-moz-transform: translateX(-220px);
+	-ms-transform: translateX(-220px);
+	transform: translateX(-220px);
+	-webkit-transition: all .25s linear;
+	-moz-transition: all .25s linear;
+	-ms-transition: all .25s linear;
+	transition: all .25s linear;
+}
+
+.menu-active.mobile-nav {
+	-webkit-transform: translateX(0);
+	-moz-transform: translateX(0);
+	-ms-transform: translateX(0);
+	transform: translateX(0);
+}
+
+.mobile-nav{
+    padding:5px;
+    color: @cor2;
+    .menu-anchor{float: right; background: @cor2; color: @branco; padding:3px 7px; font-size: 20px;}
+    .search-mobile{
+        .searchform{
+            padding: 0;
+            margin: 0;
+            input{
+                font-size: 12px;
+                padding: 7px 5px;
+                border: 0;
+                border-top: solid 1px @branco;
+            }
+            button{
+                padding: 7px ;
+                border:0;
+                color: @branco;
+                background: @cor2;
+            }
+        }
+    }
+    #menu-principal{
+        list-style: none;
+        >li >a{
+            background: RGBA(255,255,255,0.2);
+            color: @branco;
+            font-size: 16px;
+            padding: 10px;
+            display: block;
+            border-bottom: solid 1px @preto;
+            border-left: solid 2px @cor2;
+        }
+    }
+    #menu-nvegacao{
+        a{
+            color: @branco;
+            text-decoration: underline;
+            font-size: 12px;
+            display: block;
+            padding: 3px 10px;
+        }
+    }
+    
+}
+
+#nav-principal-mobile{
+    display: ;
+    ul{ padding: 0; margin: 0;}
+    li{float: left; list-style: none; text-align: center; padding-bottom: 20px;}
+    i{padding: 20px 20px 0 20px; font-size: 22px; color:@branco;}
+    a, span{font-family: 'Yanone Kaffeesatz', sans-serif!important; color: @branco;}
+}
+
+/**************MOBILE************/
+//tablets < 992px
+@media (max-width: @screen-sm-max) {
+    #header-principal.header-2{
+        #top-bar-nav{ margin:60px 0 0 0!important;
+            .searchform input{width: 250px;}
+            >ul >li{margin-left: 5px;}
+        }
+        #nav-principal{display: none;}
+        .header-logo { margin: 10px 0; 
+            a img {height: 100px!important; width: auto!important;}
+        }
+        
+    }
+    #side-principal{display: none;}
+            .whatsapp{display: none!important;}
+}
+//Telefones < 768px
+@media (max-width: @screen-xs-max) {
+    #home-banners{display: none;}
+    .header-logo{ float: none!important; text-align: center;}
+    #header-principal.header-2 {
+        #top-bar-nav{
+            margin: 0!important;
+            padding: 0!important;
+            text-align: center;
+            ul.nav{
+                float: none!important;
+                margin: 0 auto;
+                width: auto!important;
+                > li{float: left;}
+                > li.dropdown{
+                    float: right;
+                    .dropdown-menu{
+                        position: absolute;
+                        top: 100%;
+                        float: left;
+                        right: 0;
+                        background: @cor2;
+                    }
+                }
+            }
+            #nav-mobile span{display: none;}
+            form.searchform input.search-field{width:90px!important;}
+        }
+    }
+}
+
+/*************DESKTOPS***********/
+//Medios Desktops ≥ 992px
+@media (min-width: @screen-md-min){
+    #nav-mobile{ display: none;}
+}
+//Grandes Desktops ≥ 1200px
+@media (min-width: @screen-lg-min) {
+
+}
+
+
+
+
+
